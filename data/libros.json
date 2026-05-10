@@ -1,0 +1,38 @@
+[
+  {
+    "titulo": "Clean Code",
+    "autor": "Robert Martin",
+    "isbn": "9780132350884",
+    "stock_total": 1,
+    "stock_disponible": 1,
+    "id": "31343651-377e-4b35-b125-ae909b8032e2",
+    "fecha_registro": "2026-05-08T13:57:32.697152"
+  },
+  {
+    "titulo": "Design Patterns",
+    "autor": "Gang of Four",
+    "isbn": "9780201633610",
+    "stock_total": 3,
+    "stock_disponible": 3,
+    "id": "c6ada6fd-4925-460d-af3b-c09026532cc6",
+    "fecha_registro": "2026-05-08T13:57:32.697968"
+  },
+  {
+    "titulo": "Python Crash Course",
+    "autor": "Eric Matthes",
+    "isbn": "9781593279288",
+    "stock_total": 10,
+    "stock_disponible": 10,
+    "id": "8e1ac0e0-ff79-4207-9365-cec8040f5beb",
+    "fecha_registro": "2026-05-08T13:57:32.708070"
+  },
+  {
+    "titulo": "The Pragmatic Programmer",
+    "autor": "David Thomas",
+    "isbn": "9780135957059",
+    "stock_total": 4,
+    "stock_disponible": 4,
+    "id": "83c05f95-ad0b-424d-853d-fb324a7db808",
+    "fecha_registro": "2026-05-08T13:57:32.718182"
+  }
+]
