@@ -1,5 +1,14 @@
 # Sistema de Gestión de Biblioteca
 
+
+##  Integrantes del Equipo
+
+- **Johan Barragan** -
+- **Camilo Gutierrez** - 
+- **Mauricio Julio Mendoza** -
+- **Hassler durley Trujillo beltran** -
+
+---
 ## Interfaz gráfica web (localhost)
 
 1. Instala dependencias:
