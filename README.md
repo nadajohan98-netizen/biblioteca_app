@@ -3,10 +3,10 @@
 
 ##  Integrantes del Equipo
 
-- **Johan Barragan** -
-- **Camilo Gutierrez** - 
-- **Mauricio Julio Mendoza** -
-- **Hassler durley Trujillo beltran** -
+- **Johan Barragan** - Cédula: [1102635519]
+- **Camilo Gutierrez** - Cédula: [1031177389:]
+- **Mauricio Julio Mendoza** - Cédula: [cédula]
+- **Hassler durley Trujillo beltran** - Cédula: [1003711485]
 
 ---
 ## Interfaz gráfica web (localhost)
